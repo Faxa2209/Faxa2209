@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Faxa2209
+- 🌱 I’m currently learning React JS
